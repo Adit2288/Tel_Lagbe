@@ -99,7 +99,9 @@ Each fuel station receives a transparency score based on:
 - supply transparency
 
 ---
-
+# 🧭Benchmark Study (Existing Systems and Their Limitations)
+![App Screenshot](BM.png)
+---
 # 🛠 Tech Stack
 
 ## Frontend
